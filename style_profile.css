@@ -1,0 +1,17 @@
+.card {
+    padding: 0;
+    padding-top: 10px;
+    text-align: center;
+    width: 150px;
+    text-decoration: none;
+}
+.card-wrapper {
+    display: flex;
+    justify-content: start;
+}
+.card-block {
+    justify-items: left;
+}
+.card-block h2 {
+    margin-left: 20px;
+}

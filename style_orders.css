@@ -1,0 +1,37 @@
+.page-content {
+    color: #410b0b
+}
+.order-block {
+    padding-left: 0px;
+
+}
+.order-item {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(226, 202, 202);
+    border-radius: 5px;
+    margin-bottom: 15px;
+    box-shadow: 0.05rem 0.1rem 0.3rem -0.03rem rgba(0, 0, 0, 0.45);
+}
+.order-item img {
+    width: 120px;
+
+    margin-right: 5px;
+    border-radius: 5px;
+}
+.order-disc {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 0px
+}
+.order-info {
+    display: flex;
+    border-radius: 5px;
+    justify-content: space-between;
+    padding: 0px 15px;
+    background: #b89191;
+}
+.order-info h3 {
+    padding: 0
+}
